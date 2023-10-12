@@ -34,6 +34,7 @@ form{
     cursor: pointer;
     color: white;
     font-size: 18.5px;
+    border-radius: 3px;
 
     transition: background-color .3s ease-in-out;
 
